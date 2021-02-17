@@ -1,4 +1,4 @@
-# Returnly Java Exercise
+# Java Rest Complex Structures
 
 ## Functionality
 This service connects to shopify wit the credentials provided by Returnly's team. 
